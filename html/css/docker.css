@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #3498db;
+  }
+  
+  ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .blue {
+    color: #3498db;
+  }
+  
+  .red {
+    color: #e74c3c;
+  }

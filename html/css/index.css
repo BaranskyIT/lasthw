@@ -1,30 +1,27 @@
-.logo {
-	 float: left;
-}
- nav {
-	 float: right;
-}
- nav ul {
-	 margin: 0;
-	 padding: 0;
-	 list-style: none;
-}
- nav li {
-	 display: inline-block;
-}
- body {
-	 background: #000000;
-	 color: #fff;
-}
- a {
-	 color: #808000
-}
- h1 {
-	 color: #008080
-}
- p {
-	 color: #008000
-}
- ol {
-	 color: #008000
-}
+	 body {
+		background: #000;
+		color: rgb(0, 102, 255);
+		margin: 0; 
+	}
+	
+	.container {
+		width: 100%;
+		height: 400px;
+		background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+	}
+	
+	.col-1-2 {
+		width: 50%;
+		float: left; 
+	}
+	.logo {
+		background: #494949;
+		color: rgb(248, 248, 248);
+	  }
+	  .logo a {
+		text-align: center;
+		display: block;
+		font-size: 36px;
+		font-weight: bold;
+		margin-top: 10px;
+	  }
